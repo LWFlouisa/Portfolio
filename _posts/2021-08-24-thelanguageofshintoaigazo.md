@@ -3,7 +3,7 @@ layout: post
 title: "The Language Of Shintoaigazo"
 author: "S.R. Weaver"
 tags: artmanifesto
-image: uploadedfairy.png
+image: pagetest1.png
 ---
 ### THE LANGUAGE OF SHINTOAIGAZO
 
