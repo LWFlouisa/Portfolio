@@ -16,9 +16,9 @@ This will be a break down of my tools I used for illustration.
 Others coming soon.
 
 ### Brushes
--- Sumi Brush
--- Winsor Brush
--- Acrylic Brush
+-- Sumi Brush<br />
+-- Winsor Brush<br />
+-- Acrylic Brush<br />
 
 Weighing the merits of:
 
