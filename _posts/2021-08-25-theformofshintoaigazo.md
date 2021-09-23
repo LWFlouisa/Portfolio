@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "The Form Of Shintoaigazo"
+author: "S.R. Weaver"
+tags: artmanifesto
+image: uploadedfairy.png
+---
 ### THE FORM OF SHINTOAIGAZO
 
 I believe that we can extend the potential of Text Comics, beyond what has been on offer from creators in the past. Just because we can put text underneath the panels rather than the panel itself, does not mean that it is a requirement that such text be specifically prosaic, and in fact poetry is often times more efficient at communicating what it is than prose: we have rich language traditions like Haiku, Semonka, Flamenco, and other ethnic poetry traditions to thank for this.
