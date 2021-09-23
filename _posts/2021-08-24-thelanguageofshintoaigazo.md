@@ -1,3 +1,11 @@
+---
+layout: post
+title: "The Language Of Shintoaigazo"
+author: "S.R. Weaver"
+categories: artmanifesto
+tags: artmanifesto
+image: uploadedfairy.png
+---
 ### THE LANGUAGE OF SHINTOAIGAZO
 
 I believe that practice the art of Shintoaigazo, one more publish and distribute their work across multiple language channels, and have a body of work whose main languages comprise of Bamboo English, French-Creole, and a fusion constructed language formalized as a fusion of the two languages.
