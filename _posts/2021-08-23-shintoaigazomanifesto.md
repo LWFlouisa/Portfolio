@@ -5,8 +5,6 @@ author: "S.R. Weaver"
 tags: artmanifesto
 image: uploadedfairy.png
 ---
-### THE GOALS OF SHINTOAIGAZO
-
 I believe that artists should be free to include as much sex and violence in graphic novels as much as they want to, provided that such sex and violence is done in a tasteful manner. There is a fine line between having unusual fetishes, and splattering the page with excess gore. But good art sometimes comes from dark places, including those an erotic nature.
 
 I believe this because many of my favorite works have included different kinds of gore, but especially decapitations, which is my personal favorite method of execution. My personal favorite arrangement is when someone is beheaded by sword, ax, or guillotine as a form of noble sacrifice for some hopeless cause, generally of a religious or political nature. It is through the erotic nature of such stories, that we can appeal both to literary critics and erotic readers, who like darker work more generally.
