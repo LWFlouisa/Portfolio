@@ -2,8 +2,7 @@
 layout: post
 title: "The Goals Of Shintoaigazo"
 author: "S.R. Weaver"
-categories: artmanifesto
-tags: [sample]
+tags: artmanifesto
 image: uploadedfairy.png
 ---
 ### THE GOALS OF SHINTOAIGAZO
