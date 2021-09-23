@@ -3,7 +3,7 @@ layout: post
 title: "The Form Of Shintoaigazo"
 author: "S.R. Weaver"
 tags: artmanifesto
-image: pagetest2.png
+image: uploadedfairy.png
 ---
 ### THE FORM OF SHINTOAIGAZO
 
