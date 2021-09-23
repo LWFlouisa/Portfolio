@@ -4,7 +4,7 @@ title: "Shintoaigazo Manifesto"
 author: "S.R. Weaver"
 categories: artmanifesto
 tags: [sample]
-image: assets/img/uploadedfairy.jpg
+image: uploadedfairy.png
 ---
 ### THE GOALS OF SHINTOAIGAZO
 
