@@ -5,8 +5,6 @@ author: "S.R. Weaver"
 tags: artmanifesto
 image: uploadedfairy.png
 ---
-### THE LANGUAGE OF SHINTOAIGAZO
-
 I believe that practice the art of Shintoaigazo, one more publish and distribute their work across multiple language channels, and have a body of work whose main languages comprise of Bamboo English, French-Creole, and a fusion constructed language formalized as a fusion of the two languages.
 
 I believe this, because there are multiple suggests that hint at the fact that American has not been an exclusively English language country for a long time, and that to exclusively go against publishing in other languages, goes against the opportunity offered by Licensed Manga. We can do better than simply except content translated to English, because there are plenty of manga-like stories in the languages that we speak here that we can tell.
