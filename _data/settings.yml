@@ -8,7 +8,7 @@
 
 menu:
 - {name: 'About',         url: 'about'}
-# - {name] 'Art Tools',     url: 'https://lwflouisa.github.io/Portfolio/'}
+- {name] 'Art Tools',     url: 'arttools'}
 - {name: 'Illustration',  url: 'illustration'}
 - {name: 'Webcomic',      url: 'https://lwflouisa.github.io/UploadedFairy/feed.xml'}
 - {name: 'Politics',      url: 'https://lwflouisa.github.io/RedSerpentPolitics/feed.xml'}
