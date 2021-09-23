@@ -5,6 +5,8 @@ author: "S.R. Weaver"
 tags: artmanifesto
 image: uploadedfairy.png
 ---
+<i>This is still a work in progress idea.</i>
+
 These Manga inspired oblong books, shall be packaged in discrete packaging, using traditional French and Japanese imagery. The idea is that to a casual person sitting beside you on the train or on the bus, they will not notice that you’re reading an Indie Comic.
 
 When you hand over this book, it is only then that they will see that these books are of a lyrical and prosedy nature. And by that point they will only be invested in the reading experience, where they will read content that is sequential art, but done at a higher production standard than independent comics, which are generally distributed at conventions.
