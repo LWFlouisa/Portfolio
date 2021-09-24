@@ -11,10 +11,6 @@ menu:
 - {name: 'Art Tools',         url: 'arttools'}
 - {name: 'Illustration',      url: 'illustration'}
 - {name: 'Channel',           url: 'channel'}
-- {name: 'Webcomic',          url: 'https://lwflouisa.github.io/UploadedFairy/feed.xml'}
-- {name: 'Politics',          url: 'https://lwflouisa.github.io/RedSerpentPolitics/feed.xml'}
-- {name: 'AI Development',    url: 'https://lwflouisa.github.io/SRWeaverAIDevelopment/feed.xml'}
-- {name: 'Subscribe',         url: 'https://lwflouisa.github.io/Portfolio/rss-feed.xml'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
