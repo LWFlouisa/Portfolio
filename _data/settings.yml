@@ -13,7 +13,6 @@ menu:
 - {name: 'Webcomic',          url: 'https://lwflouisa.github.io/UploadedFairy/feed.xml'}
 - {name: 'Politics',          url: 'https://lwflouisa.github.io/RedSerpentPolitics/feed.xml'}
 - {name: 'AI Development',    url: 'https://lwflouisa.github.io/SRWeaverAIDevelopment/feed.xml'}
-- {name: 'Channel',           url: 'https://video.ploud.jp/a/lwflouisa/video-channels'}
 - {name: 'Subscribe',         url: 'https://lwflouisa.github.io/Portfolio/rss-feed.xml'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
