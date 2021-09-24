@@ -11,6 +11,7 @@ menu:
 - {name: 'Art Tools',         url: 'arttools'}
 - {name: 'Illustration',      url: 'illustration'}
 - {name: 'Channel',           url: 'channel'}
+- {name: 'Feeds',             url: 'subscribe'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
