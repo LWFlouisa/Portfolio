@@ -3,4 +3,4 @@ layout: page
 title: Illustration
 permalink: /illustration
 ---
-<iframe height="842px" width="540px" src="https://lwflouisa.github.io/Portfolio/Gallery">
+<center><iframe height="920px" width="640px" src="https://lwflouisa.github.io/Portfolio/Gallery"></center>
