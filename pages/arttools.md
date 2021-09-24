@@ -3,8 +3,6 @@ layout: page
 title: Illustration
 permalink: /arttools
 ---
-<center><iframe src="https://lwflouisa.github.io/Portfolio/ArtImplements/index.html" height="600px" width="800px"></center><br />
-
 This will be a break down of my tools I used for illustration.
 
 ### Drawing Implements
@@ -40,3 +38,5 @@ You can use watercolor brushes or manga pens for these inks.
 ### Lettering Fonts
 -- Hafestran Font<br />
 -- Fraponic Font<br />
+
+<center><iframe src="https://lwflouisa.github.io/Portfolio/ArtImplements/index.html" height="600px" width="800px"></center><br />
