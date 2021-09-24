@@ -12,14 +12,13 @@ menu:
 - {name: 'Illustration',      url: 'illustration'}
 - {name: 'Webcomic',          url: 'https://lwflouisa.github.io/UploadedFairy/feed.xml'}
 - {name: 'Politics',          url: 'https://lwflouisa.github.io/RedSerpentPolitics/feed.xml'}
-- {name* 'AI Development'     url: 'https://lwflouisa.github.io/SRWeaverAIDevelopment/feed.xml'}
+- {name: 'AI Development'     url: 'https://lwflouisa.github.io/SRWeaverAIDevelopment/feed.xml'}
+- {name: 'Channel',           url: 'https://video.ploud.jp/a/lwflouisa/video-channels'}
 - {name: 'Subscribe',         url: 'https://lwflouisa.github.io/Portfolio/rss-feed.xml'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link:    'https://twitter.com/FlouisaLW'}
-
-# Testing
 - {icon: 'pinterest', link: 'https://www.pinterest.com/lwflouisa0808'}
 
 # - {icon: 'rss-square', link: 'feed.xml'}
