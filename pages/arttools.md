@@ -3,7 +3,7 @@ layout: page
 title: Illustration
 permalink: /arttools
 ---
-<center><iframe src="https://lwflouisa.github.io/Portfolio/ArtImplements/index.html" height="600" width="800"></center>
+<center><iframe src="https://lwflouisa.github.io/Portfolio/ArtImplements/index.html" height="600px" width="800px"></center><br />
 
 This will be a break down of my tools I used for illustration.
 
