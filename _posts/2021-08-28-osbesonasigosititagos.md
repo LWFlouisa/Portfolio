@@ -3,7 +3,7 @@ layout: post
 title: "Os Besonasigos Di Eneros"
 author: "S.R. Weaver"
 tags: mediums inks artsupplies besonasige history
-image: comicpoetryP1.png
+image: comicpoetryP1.jpg
 ---
 Besonasige is derived from its ancestor medium Emirotamo. It has two early genres: Nosfe and Erame. Rather than a formal system of genres, like in Manga and Manwha, Besonasige has an unofficial genre system based on the readers gender: these range from comedies for women, to full on tragedies for both genders. Because the society in which Besonasige exists is largely matriarchal, the male oriented genres has been marketed less heavily.
 
