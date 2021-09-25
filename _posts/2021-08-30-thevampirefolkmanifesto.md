@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "Vampirefolk: A Genre Manifesto"
+author: "S.R. Weaver"
+tags: mediums inks artsupplies besonasige
+image: uploadedfairy.png
+---
 The vampire community is similar in some ways to Goth, but with a considerable amount of differences from it. And that doesn’t go into the difference between classical vampires and clinical vampires, in which I primarily work with as a writer.
 
 I believe that the genre should move in a more realistic direction, with a focus primarily on vampire as a genetic disorder, similar to sanguephilia. In many ways Vampire is closer to a fetish than a supernatural creature of the night.
