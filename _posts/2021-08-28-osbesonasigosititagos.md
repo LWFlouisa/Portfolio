@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Os Besonasigos Di Eneros"
+author: "S.R. Weaver"
+tags: mediums inks artsupplies besonasige history
+image: uploadedfairy.png
+---
 Besonasige is derived from its ancestor medium Emirotamo. It has two early genres: Nosfe and Erame. Rather than a formal system of genres, like in Manga and Manwha, Besonasige has an unofficial genre system based on the readers gender: these range from comedies for women, to full on tragedies for both genders. Because the society in which Besonasige exists is largely matriarchal, the male oriented genres has been marketed less heavily.
 
 Besonasige is, like Emirotamo, sequential art splits into four frames. Also similarly, text is placed in the gutter-space rather than in captions, similar to early American comic strips. Even the brightest comedies in Besonasige are far darker than any standard comedy in the present day. The word Besonasige itself is derived from the Chinese term “Beisong Shige”, or recited poetry. These are therefore a form of Comics Poetry.
