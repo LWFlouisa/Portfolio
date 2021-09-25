@@ -3,7 +3,7 @@ layout: post
 title: "The History Of Besonasiga"
 author: "S.R. Weaver"
 tags: arthistory francojapanesewar fusionart
-image: uploadedfairy.png
+image: pagetest5.png
 ---
 ### The Fraponic Language And Esiome
 This essay is about Esfiomi as a form of revolutionary literature, distributed in newspapers among anarchists factions. In this case, the newspapers were distributed between groups of activists using coded language: a creole of the languages that were the prestige languages of whoever controlled the United States at the time.
