@@ -3,6 +3,8 @@ layout: page
 title: Social
 permalink: /social
 ---
+![Red Serpent](https://raw.githubusercontent.com/LWFlouisa/Portfolio/main/assets/img/uploadedfairy.png)
+
 Im in the process of switching over to decentralized social media, with the exception of pinterest and facebook. Going forward Im going to mainly be posting my art on Pixelfed. Also my active video channel is on Peertube.
 
 [Diaspora](https://diasp.org/u/lwflouisa)<br />
