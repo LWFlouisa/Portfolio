@@ -3,7 +3,7 @@ layout: page
 title: Social
 permalink: /social
 ---
-<a href="https://raw.githubusercontent.com/LWFlouisa/Portfolio/main/assets/img/uploadedfairy.png" width="100%">
+<a href="https://raw.githubusercontent.com/LWFlouisa/Portfolio/main/assets/img/uploadedfairy.png" width="100%"></a>
 
 Im in the process of switching over to decentralized social media, with the exception of pinterest and facebook. Going forward Im going to mainly be posting my art on Pixelfed. Also my active video channel is on Peertube.
 
