@@ -3,4 +3,4 @@ layout: page
 title: Social
 permalink: /social
 ---
-[<i class="fab fa-diaspora"></i>](https://diasp.org/u/lwflouisa)
+[:black_circle:](https://diasp.org/u/lwflouisa)
