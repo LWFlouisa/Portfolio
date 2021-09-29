@@ -3,7 +3,7 @@ layout: post
 title: "Vampirefolk: A Genre Manifesto"
 author: "S.R. Weaver"
 tags: mediums inks artsupplies besonasige
-image: 20210925_005113.jpg
+image: uploadedfairy.png
 ---
 The vampire community is similar in some ways to Goth, but with a considerable amount of differences from it. And that doesn’t go into the difference between classical vampires and clinical vampires, in which I primarily work with as a writer.
 
