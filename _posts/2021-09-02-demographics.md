@@ -3,7 +3,7 @@ layout: post
 title: "Os Pubeciberos Di Fraponicos"
 author: "S.R. Weaver"
 tags: besonasige pubacibere
-image: 20210927_150505.jpg 
+image: uploadedfairy.png
 ---
 ## Os Pubaciberos 
 
