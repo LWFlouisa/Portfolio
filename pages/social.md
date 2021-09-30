@@ -10,4 +10,6 @@ Im in the process of switching over to decentralized social media, with the exce
 [Diaspora](https://diasp.org/u/lwflouisa)<br />
 [Pixelfed](https://pixelfed.de/LWFlouisa)<br />
 [Peertube](https://video.ploud.jp/c/mytalkshow/videos?languageOneOf=en&s=2)<br />
+[Mastodon](https://pawoo.net/web/accounts/1287123)<br />
 [Codeburg](https://codeberg.org/LWFlouisa)
+[Disroot](https://git.disroot.org/LWFlouisa)
